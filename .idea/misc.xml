@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/DEV/Pokedex/app/src/main/res/drawable-v24/background_border_toolbar.xml" value="0.2942708333333333" />
+        <entry key="..\:/DEV/Pokedex/app/src/main/res/drawable/background_appbar.xml" value="0.2942708333333333" />
+        <entry key="..\:/DEV/Pokedex/app/src/main/res/drawable/background_border.xml" value="0.2942708333333333" />
+        <entry key="..\:/DEV/Pokedex/app/src/main/res/drawable/background_card.xml" value="0.2942708333333333" />
+        <entry key="..\:/DEV/Pokedex/app/src/main/res/drawable/background_pokemon_type.xml" value="0.2942708333333333" />
+        <entry key="..\:/DEV/Pokedex/app/src/main/res/drawable/background_pokemon_type2.xml" value="0.1265625" />
+        <entry key="..\:/DEV/Pokedex/app/src/main/res/drawable/ic__filter.xml" value="0.2942708333333333" />
+        <entry key="..\:/DEV/Pokedex/app/src/main/res/drawable/ic_baseline_arrow_back_24.xml" value="0.2942708333333333" />
+        <entry key="..\:/DEV/Pokedex/app/src/main/res/drawable/ic_baseline_filter_alt_24.xml" value="0.2942708333333333" />
+        <entry key="..\:/DEV/Pokedex/app/src/main/res/drawable/ic_baseline_search.xml" value="0.2942708333333333" />
+        <entry key="..\:/DEV/Pokedex/app/src/main/res/drawable/ic_baseline_search_24.xml" value="0.175" />
+        <entry key="..\:/DEV/Pokedex/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2942708333333333" />
+        <entry key="..\:/DEV/Pokedex/app/src/main/res/drawable/ic_pokedex_icon.xml" value="0.16197916666666667" />
+        <entry key="..\:/DEV/Pokedex/app/src/main/res/font/montserrat.xml" value="0.3035897435897436" />
+        <entry key="..\:/DEV/Pokedex/app/src/main/res/layout-v28/activity_main.xml" value="0.278125" />
+        <entry key="..\:/DEV/Pokedex/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/DEV/Pokedex/app/src/main/res/layout/activity_pokemon_details.xml" value="0.33" />
+        <entry key="..\:/DEV/Pokedex/app/src/main/res/layout/card_pokemon.xml" value="0.5" />
+        <entry key="..\:/DEV/Pokedex/app/src/main/res/menu/main.xml" value="0.67" />
+        <entry key="..\:/DEV/Pokedex/app/src/main/res/menu/pokemon_details.xml" value="0.14583333333333334" />
+        <entry key="..\:/DEV/Pokedex/app/src/main/res/menu/pokemon_tails.xml" value="0.33" />
+        <entry key="..\:/DEV/Pokedex/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.16197916666666667" />
+        <entry key="..\:/DEV/Pokedex/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.16197916666666667" />
+        <entry key="..\:/DEV/pokedex/app/src/main/res/drawable/ic_baseline_favorite_full.xml" value="0.2942708333333333" />
+        <entry key="..\:/DEV/pokedex/app/src/main/res/drawable/ic_baseline_search_24.xml" value="0.2942708333333333" />
+        <entry key="..\:/DEV/pokedex/app/src/main/res/drawable/ic_search.xml" value="0.2942708333333333" />
+        <entry key="..\:/DEV/pokedex/app/src/main/res/layout-v28/activity_main.xml" value="0.33" />
+        <entry key="..\:/DEV/pokedex/app/src/main/res/layout/activity_main.xml" value="0.278125" />
+        <entry key="..\:/DEV/pokedex/app/src/main/res/layout/activity_pokemon_details.xml" value="0.278125" />
+        <entry key="..\:/DEV/pokedex/app/src/main/res/layout/activity_pokemon_favorite_list.xml" value="0.2640625" />
+        <entry key="..\:/DEV/pokedex/app/src/main/res/layout/activity_teste.xml" value="0.14583333333333334" />
+        <entry key="..\:/DEV/pokedex/app/src/main/res/layout/card_pokemon.xml" value="0.67" />
+        <entry key="..\:/DEV/pokedex/app/src/main/res/layout/favorit_list_pokemon_activity.xml" value="0.1" />
+        <entry key="..\:/DEV/pokedex/app/src/main/res/menu/main.xml" value="0.5" />
+        <entry key="..\:/DEV/pokedex/app/src/main/res/menu/pokemon_details.xml" value="0.13697916666666668" />
+        <entry key="..\:/Users/T-Gamer/Downloads/pokedex- top/pokedex-main/app/src/main/res/font/noto_sans.xml" value="0.40185185185185185" />
+        <entry key="..\:/Users/T-Gamer/Downloads/pokedex- top/pokedex-main/app/src/main/res/layout-v28/activity_main.xml" value="0.5" />
+        <entry key="..\:/Users/T-Gamer/Downloads/pokedex- top/pokedex-main/app/src/main/res/layout/activity_main.xml" value="0.3875" />
+        <entry key="..\:/Users/T-Gamer/Downloads/pokedex- top/pokedex-main/app/src/main/res/layout/activity_pokemon_details.xml" value="0.3875" />
+        <entry key="..\:/Users/T-Gamer/Downloads/pokedex- top/pokedex-main/app/src/main/res/layout/activity_pokemon_favorite_list.xml" value="0.3875" />
+        <entry key="..\:/Users/T-Gamer/Downloads/pokedex- top/pokedex-main/app/src/main/res/layout/activity_splash_screen.xml" value="0.3875" />
+        <entry key="..\:/Users/T-Gamer/Downloads/pokedex- top/pokedex-main/app/src/main/res/layout/card_pokemon.xml" value="0.3875" />
+        <entry key="..\:/Users/T-Gamer/Downloads/pokedex- top/pokedex-main/app/src/main/res/menu/main.xml" value="0.3875" />
+        <entry key="..\:/Users/T-Gamer/Downloads/pokedex- top/pokedex-main/app/src/main/res/menu/pokemon_details.xml" value="0.3875" />
+        <entry key="..\:/Users/T-Gamer/Downloads/pokedex- top/pokedex-main/app/src/main/res/mipmap-anydpi-v26/logo.app.xml" value="0.217" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
